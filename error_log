@@ -1,0 +1,31 @@
+[10-Nov-2020 19:09:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/gek2072/public_html/application/models/member_m.php on line 279
+[13-Nov-2020 14:08:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:08:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:08:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:08:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:47:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:47:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:48:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:48:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:48:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:49:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:50:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:50:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:50:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:50:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:50:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:50:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:53:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:54:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:54:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:54:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 14:58:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 15:00:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[13-Nov-2020 15:00:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gek2072/public_html/application/models/journal_voucher_m.php on line 60
+[17-Nov-2020 07:48:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/gek2072/public_html/application/models/member_m.php on line 279
+[24-Nov-2020 21:09:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/gek2072/public_html/application/models/member_m.php on line 279
+[28-Nov-2020 04:14:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/gek2072/public_html/application/models/member_m.php on line 279
+[01-Dec-2020 04:23:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/gek2072/public_html/application/models/member_m.php on line 279
+[03-Dec-2020 06:38:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/gek2072/public_html/application/models/member_m.php on line 279
+[19-Jan-2021 08:09:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/gek2072/public_html/application/models/member_m.php on line 279
+[16-Feb-2021 10:57:49 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/gek2072/public_html/application/libraries/tcpdf/include/tcpdf_static.php on line 1837
